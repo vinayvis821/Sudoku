@@ -1,4 +1,2 @@
 # Sudoku
-Solve sudoku puzzles in a GUI using tkinter
-
-Coming soon!
+Solve any valid sudoku puzzel in the terminal
